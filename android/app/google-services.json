@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "260886312593",
+    "firebase_url": "https://chat-5f15d.firebaseio.com",
+    "project_id": "chat-5f15d",
+    "storage_bucket": "chat-5f15d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260886312593:android:d52788c9448c809750b130",
+        "android_client_info": {
+          "package_name": "com.innoventixsolutions.chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260886312593-8u73m1njqtqacojfuih5foed6dn7jrf0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innoventixsolutions.chat",
+            "certificate_hash": "3c874eae0eeb724abb18bd772ecee9a097eee118"
+          }
+        },
+        {
+          "client_id": "260886312593-n788c7mb04fjum5h6p5nf77tmfpcfsip.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.innoventixsolutions.chat",
+            "certificate_hash": "ab04a2a868ef84f2d3a5686a94259df610a5a31c"
+          }
+        },
+        {
+          "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzNq1eHneeqeiaQTBNkDbgEqjOejQzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260886312593-ac0ft6j42nhten8m653bd4fruksikd3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innoventixsolutions.backgroundtask"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260886312593:android:2c6390c2ef40dbce50b130",
+        "android_client_info": {
+          "package_name": "com.innoventixsolutions.firetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzNq1eHneeqeiaQTBNkDbgEqjOejQzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260886312593-ac0ft6j42nhten8m653bd4fruksikd3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innoventixsolutions.backgroundtask"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260886312593:android:ef4d2696570fd9be50b130",
+        "android_client_info": {
+          "package_name": "com.innoventixsolutions.innoventixmodules"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCzNq1eHneeqeiaQTBNkDbgEqjOejQzFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260886312593-6f6j32gkn2gnmj7rdvn30rldfd3ovsp8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "260886312593-ac0ft6j42nhten8m653bd4fruksikd3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.innoventixsolutions.backgroundtask"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
